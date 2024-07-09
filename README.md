@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anjan Chowdhury</h1>
-<h3 align="center">A Passionate Software Engineer with expertise in Python. I am an Artificial Intelligence and Machine Learning Enthusiast.</h3>
+<h3 align="center">A Passionate Software Engineer with expertise in Python. I am an Artificial Intelligence & Machine Learning Enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjanchowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="anjanchowdhury" /> </p>
 
