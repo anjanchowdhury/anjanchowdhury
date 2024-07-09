@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
-- 💬 Ask me about **Python, SQL, Artificial Intelligence, Machine Learning**
+- 💬 Ask me about **Python, C, JAVA, SQL, Linux, Artificial Intelligence, Machine Learning**
 
 - 📫 How to reach me **anjanchowdhury.feb2002@gmail.com**
 
