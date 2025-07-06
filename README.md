@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/anjantweetanjan" target="blank"><img src="https://img.shields.io/twitter/follow/anjantweetanjan?logo=twitter&style=for-the-badge" alt="anjantweetanjan" /></a> </p>
 
-- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
+- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning and LLMs**
 
-- 💬 Ask me about **Python, C, JAVA, SQL, Linux, Artificial Intelligence, Machine Learning**
+- 💬 Ask me about **Python, C, JAVA, SQL, Linux, Artificial Intelligence, Machine Learning, Deep Learning, Natural language Processing**
 
 - 📫 How to reach me **anjanchowdhury.feb2002@gmail.com**
 
